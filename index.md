@@ -15,6 +15,6 @@ I am interested in:
 - Edtech;
 - mythologies.
 
-This semester I am making a digital edition.
+This semester I am making a digital edition. You can follow it on [my projects page]({% link projects.md %}).
 
 Contact: yousra.bouzid@student.uantwerpen.be
